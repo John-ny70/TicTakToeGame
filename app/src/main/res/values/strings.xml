@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tik Tak Toe</string>
+    <string name="Heading">Let\'s play Tik-Tak-Toe</string>
+    <string name="grid">main_grid</string>
+    <string name="first">\"Xor0\"</string>
+    <string name="second">\"Xor0\"</string>
+    <string name="third">\"Xor0\"</string>
+    <string name="forth">\"Xor0\"</string>
+    <string name="fifth">\"Xor0\"</string>
+    <string name="sixth">\"Xor0\"</string>
+    <string name="seventh">\"Xor0\"</string>
+    <string name="eight">\"Xor0\"</string>
+    <string name="nineth">\"Xor0\"</string>
+    <string name="Reset">ResetGame</string>
+
+</resources>
